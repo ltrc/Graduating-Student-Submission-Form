@@ -74,7 +74,7 @@ Please provide links, documents, or descriptions under each category. Use the fo
 
 ### 📬 Submission Instructions
 
-Please complete this form and submit it to both:
+Please complete this form and submit it to both (over email as a docx file):
 - Your academic advisor, and  
 - Lab coordinator: **max.singh@research.iiit.ac.in**  
 before your official graduation date.
