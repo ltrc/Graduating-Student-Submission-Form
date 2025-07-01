@@ -14,7 +14,7 @@ I acknowledge that this form is intended to collect key details of my research w
 - Code repositories and tools developed  
 - Experimental results and artifacts  
 
-I confirm that the information I provide in this form is accurate and complete to the best of my knowledge, and I understand that it may be referred to by lab members or collaborators in the future.
+I confirm that the information provided in this form is accurate and complete to the best of my knowledge. I understand that this information may be referenced by lab members or collaborators in the future, and that it may be uploaded as open-source content for others to access and cite.
 
 ---
 
